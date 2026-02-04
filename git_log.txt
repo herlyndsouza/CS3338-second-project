@@ -1,0 +1,45 @@
+commit d35c3ccd1b4c88b323526ab8f5defba413484619
+Merge: cc5e455 34b5ce2
+Author: herlyndsouza <hdsouza@calstatela.edu>
+Date:   Tue Feb 3 22:41:31 2026 -0800
+
+    Resolve merge conflict
+
+commit 34b5ce2c2e86a5437fc1518ba9aa27c66089d5a8
+Author: herlyndsouza <hdsouza@calstatela.edu>
+Date:   Tue Feb 3 22:30:55 2026 -0800
+
+    Add favorite movie/game on index-fix
+
+commit cc5e455d5150dba58c263cd64590618e2edf8b17
+Author: herlyndsouza <hdsouza@calstatela.edu>
+Date:   Tue Feb 3 22:28:01 2026 -0800
+
+    Add favorite food on main
+
+commit 7dc9eaa4c901e5378ba2711ce54a82cd14040cca
+Author: herlyndsouza <hdsouza@calstatela.edu>
+Date:   Tue Feb 3 22:24:34 2026 -0800
+
+    Add README
+
+commit c04c84b031876e1ba62b915e14b1ecc2bad19a06
+Merge: 1d2bfc0 d205022
+Author: herlyndsouza <hdsouza@calstatela.edu>
+Date:   Tue Feb 3 22:19:24 2026 -0800
+
+    Merge pull request #1 from herlyndsouza/info-fill
+    
+    Fill in name and hobby
+
+commit d205022bbd681c61a3c92d556fcda58b701ab034
+Author: herlyndsouza <hdsouza@calstatela.edu>
+Date:   Tue Feb 3 21:37:49 2026 -0800
+
+    Fill in name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
